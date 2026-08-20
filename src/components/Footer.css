@@ -1,0 +1,33 @@
+footer {
+  text-align: center;
+  background-color: black;
+  padding: 50px 20px;
+}
+
+footer p {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: cornflowerblue;
+  padding: 10px 15px;
+  border: 1px solid cornflowerblue;
+  border-radius: 9px;
+}
+
+body.light-theme footer {
+  background-color: azure;
+}
+
+body.light-theme footer p {
+  color: darkcyan;
+}
