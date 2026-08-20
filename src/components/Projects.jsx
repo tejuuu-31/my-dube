@@ -39,7 +39,7 @@ function Projects() {
 
         <article className="project-card">
           <img
-            src="https://www.shutterstock.com/image-vector/calculator-app-cartoon-smartphone-interface-600nw-1791440807.jpg"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADkK7Hap8d2OaVSKbnLPWMlkCDwqVagXHQXw-VSaGXmtEbI0DwSnfYIWv&s=10"
             alt="Calculator App"
           />
 
